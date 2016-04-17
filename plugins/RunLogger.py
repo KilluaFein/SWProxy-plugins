@@ -40,6 +40,13 @@ dungeon_map = {
     8001: "Giant's Keep",
     9001: "Dragon's Lair",
     10025: "Hall of Heroes",
+    30001: "Water Angelmon",
+    30002: "Fire Angelmon",
+    30003: "Wind Angelmon",
+    30004: "Light Angelmon",
+    30005: "Dark Angelmon",
+    30019: "Rainbowmon",
+    30020: "Devilmon"
 }
 
 difficulty_map = {
