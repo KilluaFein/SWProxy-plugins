@@ -46,7 +46,9 @@ dungeon_map = {
     30004: "Light Angelmon",
     30005: "Dark Angelmon",
     30019: "Rainbowmon",
-    30020: "Devilmon"
+    30020: "Devilmon",
+	10026: "Rigel HoH",
+	10027: "Aria HoH"
 }
 
 difficulty_map = {
